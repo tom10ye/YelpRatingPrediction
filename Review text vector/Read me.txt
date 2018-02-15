@@ -1,0 +1,8 @@
+This is the code for text review, feature vector from text. 
+
+The code is running on python 2.71x
+
+To run this code, place the yelp_tranning_set_review.json in the same path of this program and run the code.
+This code will provide information about most common unigrams and bigrams, most biased statements along with feature vector MSE result.  
+
+Best
